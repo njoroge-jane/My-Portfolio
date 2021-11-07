@@ -21,6 +21,9 @@ header {
   margin-left: 70px;
   margin-top: 50px;
 }
+.text{
+  margin-left: 30px;
+}
  h2 img {
   width: 15%;
   margin-right: -30px;
@@ -59,4 +62,16 @@ hr {
 }
 .interests ul {
   line-height: 50px;
+}
+footer {
+  background-image: url('/images/footer.png');
+  height: fit-content;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+}
+footer a {
+  color: white;
 }
