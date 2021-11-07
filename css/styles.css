@@ -34,7 +34,7 @@ hr {
   color: black;
 }
 .row {
-  margin: 70px 20px 0 200px;
+  margin: 70px 20px 20px 200px;
 }
 .m-drive, .sofa{
   width: 30%;
@@ -46,4 +46,12 @@ hr {
   width: 30%;
   margin-left: 90px;
   border-radius: 20px;
+}
+.education{
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.education h3{
+  margin-bottom: 30px;
+  margin-left: 70px;
 }
