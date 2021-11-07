@@ -64,7 +64,7 @@ hr {
   line-height: 50px;
 }
 footer {
-  background-image: url('/images/footer.png');
+  background-image: url('../images/footer.png');
   height: fit-content;
   color: white;
   text-align: center;
