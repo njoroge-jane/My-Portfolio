@@ -16,7 +16,7 @@ Click on the live links provided below every project to view my previous project
 For further interaction contact me on the contacts provided in the footer.
 
 ### LINK
-[https://www.github.com](https://www.github.com "My-Portfolio")
+[https://njoroge-jane.github.io/My-Portfolio/](https://njoroge-jane.github.io/My-Portfolio/ "My-Portfolio") 
 
 ### LISCENCE
 [MIT](https://choosealicense.com/licenses/mit/)
