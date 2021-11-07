@@ -64,6 +64,7 @@ hr {
   line-height: 50px;
 }
 footer {
+  /* Background image path should be relative to the current file, hence (..) */
   background-image: url('../images/footer.png');
   height: fit-content;
   color: white;
