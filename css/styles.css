@@ -40,18 +40,20 @@ hr {
   width: 30%;
   margin-right: 90px;
   border-radius: 20px;
-
 }
 .street-food, .photo-moto{
   width: 30%;
   margin-left: 90px;
   border-radius: 20px;
 }
-.education{
+.education, .why-section{
   margin-left: 200px;
   margin-top: 50px;
 }
-.education h3{
+#about h3{
   margin-bottom: 30px;
   margin-left: 70px;
+}
+.why-section p{
+  width: 80%;
 }
