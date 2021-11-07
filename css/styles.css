@@ -33,3 +33,17 @@ hr {
   background-color: black;
   color: black;
 }
+.row {
+  margin: 70px 20px 0 200px;
+}
+.m-drive, .sofa{
+  width: 30%;
+  margin-right: 90px;
+  border-radius: 20px;
+
+}
+.street-food, .photo-moto{
+  width: 30%;
+  margin-left: 90px;
+  border-radius: 20px;
+}
