@@ -67,6 +67,7 @@ hr {
   line-height: 50px;
 }
 footer {
+  background-image: url("file:///home/moringa/Downloads/Rectangle%2016%20(1).png");
   background-image: url('../images/footer.png');
   height: fit-content;
   color: white;
