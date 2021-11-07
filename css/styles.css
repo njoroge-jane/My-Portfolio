@@ -1,5 +1,5 @@
 header {
- background-image: url('/images/me.jpg');
+ background-image: url('../images/me.jpg');
  background-repeat: no-repeat;
  background-size: cover;
  background-attachment: fixed;
