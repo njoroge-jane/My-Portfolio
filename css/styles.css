@@ -75,3 +75,35 @@ footer {
 footer a {
   color: white;
 }
+@media  screen and (max-width:900px) {
+  .col-md-6 {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-left: 0px;
+  }
+  br {
+    display: none;
+  }
+}
+@media screen and (max-width:400px) {
+  .col-md-6{
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .education, .why-section, .interests {
+    margin-left: 20px;
+}
+.header-text{
+  margin: 0px;
+  width: 100%;
+}
+.nav-link {
+  padding:11px 30px 30px 11px;
+}
+h2 img {
+  width: 15%;
+  margin-right: 0px;
+}
+}
