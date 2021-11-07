@@ -1,0 +1,35 @@
+header {
+ background-image: url('/images/me.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 500px; 
+}
+.nav-link {
+  display: block;
+  padding: 0.7rem 4rem;
+  color: white;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.header-text{
+  background-color: rgb(255, 255, 255, 0.2);
+  width: 40%;
+  color: rgb(255, 254, 254);
+  padding: 20px;
+  border-radius: 50px;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+ h2 img {
+  width: 15%;
+  margin-right: -30px;
+}
+hr {
+  width: 8%;
+  padding: 2px;
+  margin-left: 185px;
+  margin-top: -50px;
+  background-color: black;
+  color: black;
+}
