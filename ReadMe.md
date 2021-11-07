@@ -17,3 +17,6 @@ For further interaction contact me on the contacts provided in the footer.
 
 ### LINK
 [https://www.github.com](https://www.github.com "My-Portfolio")
+
+### LISCENCE
+[MIT](https://choosealicense.com/licenses/mit/)
